@@ -1,0 +1,10 @@
+F:\VSProjects\GeometryTasks\bin\Debug\netcoreapp3.1\GeometryTasks.deps.json
+F:\VSProjects\GeometryTasks\bin\Debug\netcoreapp3.1\GeometryTasks.dll
+F:\VSProjects\GeometryTasks\bin\Debug\netcoreapp3.1\GeometryTasks.pdb
+F:\VSProjects\GeometryTasks\obj\Debug\netcoreapp3.1\GeometryTasks.csproj.AssemblyReference.cache
+F:\VSProjects\GeometryTasks\obj\Debug\netcoreapp3.1\GeometryTasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSProjects\GeometryTasks\obj\Debug\netcoreapp3.1\GeometryTasks.AssemblyInfoInputs.cache
+F:\VSProjects\GeometryTasks\obj\Debug\netcoreapp3.1\GeometryTasks.AssemblyInfo.cs
+F:\VSProjects\GeometryTasks\obj\Debug\netcoreapp3.1\GeometryTasks.csproj.CoreCompileInputs.cache
+F:\VSProjects\GeometryTasks\obj\Debug\netcoreapp3.1\GeometryTasks.dll
+F:\VSProjects\GeometryTasks\obj\Debug\netcoreapp3.1\GeometryTasks.pdb
